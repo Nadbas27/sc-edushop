@@ -1,0 +1,32 @@
+body {
+    background-color: #ffffff;
+    background-image: url('data:image/svg+xml;utf8,<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg"><circle cx="10" cy="10" r="2" fill="%23cccccc" /></svg>');
+    background-repeat: repeat;
+    position: relative;
+}
+.register-container {
+    max-width: 500px;
+    margin: 50px auto;
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.section-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+.form-label {
+    font-weight: 600;
+}
+
+h2 {
+    font-weight: bold;
+    color: #0c5192;
+}
+.form-label {
+    color: gray;
+}
+.btn-primary {
+    background-color: #0c5192;
+}
